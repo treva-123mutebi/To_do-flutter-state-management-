@@ -4,7 +4,7 @@ Implemented state management using [Bloc](https://pub.dev/packages/flutter_bloc)
 
 [Get](https://pub.dev/packages/get) uses less code and avoids a lot of boiler plate code if compared to [Bloc](https://pub.dev/packages/flutter_bloc).
 
-compare code @ [diff@8a3707a....c96003f](https://github.com/vemarav/flutter_todo/compare/8a3707ad96f0554d452f963004aba123c6bdc247...c96003f753eaf944d9d181959578203c16cf39b7)
+
 
 demo
 --
